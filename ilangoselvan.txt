@@ -1,3 +1,8 @@
-I am ilangoselvan. 
+I am ilangoselvan.
 
-git config --global user.email "you@example.com"
+ git config --global user.email "ilangolit@gmail.com"
+
+ git config --global user.name "ilangoselvan"
+
+
+life is a happy journey
